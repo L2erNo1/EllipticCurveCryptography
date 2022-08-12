@@ -35,3 +35,6 @@ String: plain text
 
 ![image](https://user-images.githubusercontent.com/81867521/184395292-cdf67a69-568c-43e4-b94b-3c05ddbb3bdd.png)
 
+
+------- THANK FOR YOR ATTENTION --------
+
