@@ -16,6 +16,19 @@ Cho đường cong Elliptic:
 
 Ep(a,b) = y^2 = x^3 + ax + b (mod p)
 
-Giải mã chỉ cần 32 kí tự bao gồm các kí tự đặc biệt nên ta fix cố định các giá trị a=2, b=3 và p=137 (32 cặp giá trị x,y)
+Giải mã chỉ cần 32 kí tự bao gồm các kí tự đặc biệt nên ta fix cố định các giá trị a=2, b=3 và p=137 (94 cặp giá trị x,y)
 
+
+--CÁC ĐIỂM SINH:
+![image](https://user-images.githubusercontent.com/81867521/184392256-0447b92b-96d0-4459-9a58-e101d8e2ff60.png)
+
+--MÃ HÓA: 
+![image](https://user-images.githubusercontent.com/81867521/184392624-d0622965-890d-4820-b508-5107025c0bc5.png)
+
+Key: tạo khóa công khai
+k: số ngẫu nhiên k
+String: plain text
+
+--GIẢI MÃ:
+![image](https://user-images.githubusercontent.com/81867521/184395292-cdf67a69-568c-43e4-b94b-3c05ddbb3bdd.png)
 
