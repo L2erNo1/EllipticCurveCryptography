@@ -16,7 +16,7 @@ Cho đường cong Elliptic:
 
 Ep(a,b) = y^2 = x^3 + ax + b (mod p)
 
-Giải mã chỉ cần 32 kí tự bao gồm các kí tự đặc biệt nên ta fix cố định các giá trị a=2, b=3 và p=137 (94 cặp giá trị x,y)--Dựa trên bảng mã accii
+Giải mã chỉ cần 94 kí tự bao gồm các kí tự đặc biệt nên ta fix cố định các giá trị a=2, b=3 và p=137 (94 cặp giá trị x,y)--Dựa trên bảng mã accii
 
 
 --CÁC ĐIỂM SINH:
