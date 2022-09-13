@@ -1,4 +1,5 @@
-#EllipticCurveCryptography
+### Project của mình và team
+###EllipticCurveCryptography
 
 Elliptic Curve Cryptography (ECC) là một hệ mật khóa bất đối xứng (khóa công khai) được xem là mạnh nhất hiện nay.
 
